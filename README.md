@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc0ZDd1Zjhrcnptazk4MmEyNms5Ymdmczhma21yOHVjbjdlc2gyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsha-harod-63bb37229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
