@@ -22,7 +22,7 @@ I'm a Data Science and Management student at IIT Ropar and IIM Amritsar.
 - :telescope: I’m currently working as a Data Science Intern and contributing to LLM Evals.
 
 - :seedling: Exploring the world of open source model to craft valuable applications—all without spending a single penny.
-- 
+ 
 - :zap: In my free time, I read tech articles on LinkdIn and delve into fiction reading.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-harod-63bb37229/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-harod-63bb37229/)
