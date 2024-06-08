@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/harshaharod">
-    <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=kaggle&logoColor=skyblue" alt=" Kaggle Badge"width="200" height="30"//>
+    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=kaggle&logoColor=skyblue" alt=" Kaggle Badge"width="150" height="30"//>
   </a>
   
 </div>
